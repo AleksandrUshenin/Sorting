@@ -1,0 +1,6 @@
+G:\MyProgects\SorterMethods\SorterMethods\bin\Debug\SorterMethods.exe.config
+G:\MyProgects\SorterMethods\SorterMethods\bin\Debug\SorterMethods.exe
+G:\MyProgects\SorterMethods\SorterMethods\bin\Debug\SorterMethods.pdb
+G:\MyProgects\SorterMethods\SorterMethods\obj\Debug\SorterMethods.csprojResolveAssemblyReference.cache
+G:\MyProgects\SorterMethods\SorterMethods\obj\Debug\SorterMethods.exe
+G:\MyProgects\SorterMethods\SorterMethods\obj\Debug\SorterMethods.pdb
