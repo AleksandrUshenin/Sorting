@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinatyThree.cs" />
     <Compile Include="Massivs.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="PiramidalSort.cs" />
